@@ -1,0 +1,28 @@
+{
+  "name": "blank-css-badges",
+  "version": "0.1.0",
+  "description": "Badges component for blank-css",
+  "main": "badges.css",
+  "homepage": "https://github.com/ahmedelgabri/blank-component-badges",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "badges"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
